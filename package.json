@@ -1,6 +1,5 @@
 {
-
-  "name": "desafio2-fastFeet",
+  "name": "Template",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -27,5 +26,7 @@
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
     "sucrase": "^3.12.1"
-  }
+  },
+  "repository": "https://github.com/tiagomariinhoo/TemplateJs.git",
+  "author": "Tiago Marinho <tiago.marinho.797@gmail.com>"
 }
